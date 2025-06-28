@@ -44,7 +44,7 @@ footer {
   background: #eaeaea;
   margin-top: 40px;
 }
-resume-button {
+.resume-button {
   display: inline-block;
   margin-top: 15px;
   padding: 10px 20px;
@@ -56,6 +56,6 @@ resume-button {
   transition: background-color 0.3s ease;
 }
 
-resume-button:hover {
+.resume-button:hover {
   background-color: #357ab7;
 }
