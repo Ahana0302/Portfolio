@@ -1,8 +1,8 @@
 # Ahana Adhikary | Portfolio 
 
-Welcome to my portfolio website! This site is hosted using **GitHub Pages** and created using **HTML + CSS**.
+Welcome to my portfolio website!!!.
 
-## 👩‍🎓 About Me
+## 👩‍🎓 **About Me**
 
 I am pursuing a Bachelor's degree in **Computer Applications** from the **Institute of Engineering and Management**.
 
