@@ -1,4 +1,4 @@
-# Ahana Adhikary | Portfolio Website
+# Ahana Adhikary | Portfolio 
 
 Welcome to my portfolio website! This site is hosted using **GitHub Pages** and created using **HTML + CSS**.
 
